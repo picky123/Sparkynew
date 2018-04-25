@@ -40,4 +40,4 @@ bot.on("message", async message => {
 });
 
 
-bot.login(tokenfile.token)
+bot.login('NDE0NzA2Njk4NjcxMDk1ODE5.DcHpFA.yai98SIEzBJUu-uCYNfKZxAMGBE')
