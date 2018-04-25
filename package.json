@@ -1,0 +1,27 @@
+{
+  "name": "sparky",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "spark",
+  "license": "ISC",
+  "dependencies": {
+    "binary": "^0.3.0",
+    "chalk": "^2.3.2",
+    "discord.js": "^11.3.2",
+    "discord.js-music": "^2.1.0",
+    "discord.js-music-v11": "^1.3.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "git": "^0.1.5",
+    "moment": "^2.22.1",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "querystring": "^0.2.0",
+    "request": "^2.85.0",
+    "return-deep-diff": "^0.2.9",
+    "ytdl-core": "^0.20.2"
+  }
+}
